@@ -1,3 +1,4 @@
+print("Hajrá Fradi")
 def create_final_gym_svg():
     filename = "gym_final_design.svg"
     
@@ -91,4 +92,5 @@ def create_final_gym_svg():
         print(f"Hiba: {e}")
 
 if __name__ == "__main__":
+
     create_final_gym_svg()
